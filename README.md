@@ -72,6 +72,11 @@ To build the DITA-OT Markdown plug-in from source:
     ~~~~
 
     The distribution ZIP file is generated under `build/distributions`.
+    
+ Integrate
+ -----
+ 
+ You can integrate this plug-in with OXygen, and this is already natively integated with DCS.
 
 Donating
 --------
